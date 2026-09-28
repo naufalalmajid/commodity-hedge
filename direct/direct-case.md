@@ -1,0 +1,3 @@
+this is a simple case for doing direct hedge in commodity real life
+
+ex: naufal as a commodity exporter...
